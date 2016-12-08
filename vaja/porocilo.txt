@@ -1,1 +1,2 @@
-1. Vse datoteke so bile opisane kot "New File" - torej na novo dodane/kreairane datoteke
+1. Vse datoteke so bile opisane kot "New File" - torej na novo dodane/kreairane datoteke.
+2. Vse datoteke so bile opisane kot "Modified" - torej, ze obstojece datoteke, ki so bile spremenjene.
